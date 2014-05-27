@@ -20,7 +20,7 @@ With GroupDocs Comparison plugin for ezPublish you can easily view on [annotate 
 * [Embed DOC, DOCX, PDF Viewer in your Radiant CMS website] (http://ext.radiantcms.org/extensions/294-groupdocs-viewer)
 * [See source code for GroupDocs Comparison plugin for Radiant CMS](https://github.com/groupdocs/radiant-groupdocs-annotation-source)
 
-###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).
+###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/plugins).
 
 ###ChangeLog
 2012-11-30
